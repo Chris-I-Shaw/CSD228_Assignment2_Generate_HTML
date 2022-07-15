@@ -1,0 +1,15 @@
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\CSD228-HW2.csproj.AssemblyReference.cache
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\CSD228-HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\CSD228-HW2.AssemblyInfoInputs.cache
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\CSD228-HW2.AssemblyInfo.cs
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\CSD228-HW2.csproj.CoreCompileInputs.cache
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\bin\Debug\net6.0\CSD228-HW2.exe
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\bin\Debug\net6.0\CSD228-HW2.deps.json
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\bin\Debug\net6.0\CSD228-HW2.runtimeconfig.json
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\bin\Debug\net6.0\CSD228-HW2.dll
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\bin\Debug\net6.0\CSD228-HW2.pdb
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\CSD228-HW2.dll
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\refint\CSD228-HW2.dll
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\CSD228-HW2.pdb
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\CSD228-HW2.genruntimeconfig.cache
+C:\Users\cshaw\Documents\CSD228\csd228-hw2-Chris-I-Shaw\obj\Debug\net6.0\ref\CSD228-HW2.dll
